@@ -25,7 +25,8 @@ char charac = up.charAt(i);
 				// 4. Create a char variable to store the next character of the name
 				//    use .charAt()
 if(i%2>0) {
-	up.toLowerCase();
+ .toLowerCase();           
+
 }
 
 System.out.println(charac);	
