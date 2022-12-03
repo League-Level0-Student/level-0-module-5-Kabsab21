@@ -4,10 +4,15 @@ public class Fibonacci {
 public static void main(String[] args) {
 	
 	int num = 1;
-	int sum = 0 ;
-	for( int i= 0; i < 10; i++ ) {
-		num=num+1;
-		System.out.println(sum);
+	int sum = 2 ;
+	System.out.println(0);
+	System.out.println(num);
+	System.out.println(num);
+	System.out.println(sum);
+
+	for( int i= 0; i < 9; i++ ) {
+		num=sum-num+1;
+		System.out.println(num);
 		sum=sum+num;
 		
 		
