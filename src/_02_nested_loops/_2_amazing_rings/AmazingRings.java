@@ -32,7 +32,7 @@ import processing.core.PImage;
  * CHALLENGE - to finish the Amazing Rings
  * 8. Add another for loop to draw the second set of rings that will start in
  *    the right half of the window
- *
+ *werwerwer
  * 9. Make this set of rings move in the opposite direction to the other rings
  *    These rings must also "bounce" off the sides of the window.
  */
